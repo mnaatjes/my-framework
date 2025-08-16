@@ -1,0 +1,18 @@
+{
+    "name": "mnaatjes/my-framework",
+    "description": "My simple framework.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "mnaatjes\\MyFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michael Naatjes",
+            "email": "michael.naatjes87@gmail.com"
+        }
+    ],
+    "require": {}
+}
